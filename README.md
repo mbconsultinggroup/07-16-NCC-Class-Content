@@ -1,7 +1,7 @@
 -----------------------------------------
 # The Coding Bootcamp at UT Austin
 
-#### July 2016 Cohort Curriculum Syllabus
+#### July 2016 NCC - Cohort Curriculum Syllabus
 
 -----------------------------------------
 
