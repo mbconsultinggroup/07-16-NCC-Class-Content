@@ -46,81 +46,81 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 |	Subject	|	Lesson #	|	Date<br	>	M/W/S	|	Date<br	>	T/T/S	|	Recordings	|
 |	---	|	---:	|	---:			|	---:			|	:---:	|
-|	Kickoff     	|	1.1	|	Mon<br	>	July 18, 2016	|	Tue<br	>	July 19, 2016	|		|
-|	HTML & CSS Intro     	|	1.2	|	Wed<br	>	July 20, 2016	|	Thu<br	>	July 21, 2016	|		|
-|	HTML CSS Git     	|	1.3	|	Sat<br	>	July 23, 2016	|	Sat<br	>	July 23, 2016	|		|
-|	Review + Git Branching & Heroku    	|	2.1	|	Mon<br	>	July 25, 2016	|	Tue<br	>	July 26, 2016	| 		|
-|	Branching & Bootstrap     	|	2.2	|	Wed<br	>	July 27, 2016	|	Thu<br	>	July 28, 2016	|		|
-|	Bootstrap Continued     	|	2.3	|	Sat<br	>	July 30, 2016	|	Sat<br	>	July 30, 2016	|		|
-|	Intro to JavaScript     	|	3.1	|	Mon<br	>	August 1, 2016	|	Tue<br	>	August 2, 2016	| 		|
-|	Arrays Loops RPS Breakpoints     	|	3.2	|	Wed<br	>	August 3, 2016	|	Thu<br	>	August 4, 2016	|		|
-|	Objects & Functions     	|	3.3	|	Sat<br	>	August 6, 2016	|	Sat<br	>	August 6, 2016	|		|
-|	Intro to jQuery     	|	4.1	|	Mon<br	>	August 8, 2016	|	Tue<br	>	August 9, 2016	|		|
-|	JavaScript Scope + jQuery Continued     	|	4.2	|	Wed<br	>	August 10, 2016	|	Thu<br	>	August 11, 2016	|		|
-|	Using Arrays & Objects With jQuery     	|	4.3	|	Sat<br	>	August 13, 2016	|	Sat<br	>	August 13, 2016	|		|
-|	Review + Timers     	|	5.1	|	Mon<br	>	August 15, 2016	|	Tue<br	>	August 16, 2016	|		|
-|	Review     	|		|	Wed<br	>	August 17, 2016	|	Thu<br	>	August 18, 2016	|		|
-|	JSON APIs AJAX     	|	6.1	|	Sat<br	>	August 20, 2016	|	Sat<br	>	August 20, 2016	|		|
-|	**Review On Tuesday<br>No Class Monday**     	|		|	Mon<br	>	August 22, 2016	|	Tue<br	>	August 23, 2016	|		|
-|	AJAX Continued     	|	6.2	|	Wed<br	>	August 24, 2016	|	Thu<br	>	August 25, 2016	|		|
-|	AJAX Continued     	|	6.3	|	Sat<br	>	August 27, 2016	|	Sat<br	>	August 27, 2016	|		|
-|	Client Side Storage with Local Storage     	|	7.1	|	Mon<br	>	August 29, 2016	|	Tue<br	>	August 30, 2016	|		|
-|	Firebase     	|	7.2	|	Wed<br	>	August 31, 2016	|	Thu<br	>	September 1, 2016	|		|
-|	Firebase Continued<br>+ Groups For Projects Announced     	|	7.3	|	Sat<br	>	September 3, 2016	|	Sat<br	>	September 3, 2016	|		|
-|	Project Mgmt<br>+ Review of How Projects Will Be Run     	|	8.1	|	Mon<br	>	September 5, 2016	|	Tue<br	>	September 6, 2016	|		|
-|	Project Work     	|	8.2	|	Wed<br	>	September 7, 2016	|	Thu<br	>	September 8, 2016	|		|
-|	How to Demo<br>+ Project Work     	|	8.3	|	Sat<br	>	September 10, 2016	|	Sat<br	>	September 10, 2016	|		|
-|	Debugging Legacy Code<br>+ Interview Questions     	|	9.1	|	Mon<br	>	September 12, 2016	|	Tue<br	>	September 13, 2016	|		|
-|	Problem Solving     	|	9.2	|	Wed<br	>	September 14, 2016	|	Thu<br	>	September 15, 2016	|		|
-|	**Internal Demo Day<br>+ Project Feedback**     	|	9.3	|	Sat<br	>	September 17, 2016	|	Sat<br	>	September 17, 2016	|		|
-|	Introducing Node.js     	|	10.1	|	Mon<br	>	September 19, 2016	|	Tue<br	>	September 20, 2016	|		|
-|	NPM Packages     	|	10.2	|	Wed<br	>	September 21, 2016	|	Thu<br	>	September 22, 2016	|		|
-|	Node Review + Organizing and Debugging Node Code<br>+ **Where Are You? (Assessment)**     	|	10.3	|	Sat<br	>	September 24, 2016	|	Sat<br	>	September 24, 2016	|		|
-|	**Review On Tuesday<br>No Class Monday**     	|		|	Mon<br	>	September 26, 2016	|	Tue<br	>	September 27, 2016	|		|
-|	Interview Question Blitz     	|		|	Wed<br	>	September 28, 2016	|	Thu<br	>	September 29, 2016	|		|
-|	Introduction To Constructors     	|	11.1	|	Sat<br	>	October 1, 2016	|	Sat<br	>	October 1, 2016	|		|
-|	Constructors Continued + Prototype     	|	11.2	|	Mon<br	>	October 3, 2016	|	Tue<br	>	October 4, 2016	|		|
-|	Introduction To MySQL     	|	12.1	|	Wed<br	>	October 5, 2016	|	Thu<br	>	October 6, 2016	|		|
-|	Using MySQL with Node.js     	|	12.2	|	Sat<br	>	October 8, 2016	|	Sat<br	>	October 8, 2016	|		|
-|	Prompt + MySQL + Node.js     	|	12.3	|	Mon<br	>	October 10, 2016	|	Tue<br	>	October 11, 2016	|		|
-|	Node.js Web Servers     	|	13.1	|	Wed<br	>	October 12, 2016	|	Thu<br	>	October 13, 2016	|		|
-|	Introduction To Express.js And Routing<br>+ Serving HTML The Hard Way     	|	13.2	|	Sat<br	>	October 15, 2016	|	Sat<br	>	October 15, 2016	|		|
-|	Express.js Continued<br>+ Serving HTML Using Public/Index.html<br>+ Forms And C.R.U.D     	|	13.3	|	Mon<br	>	October 17, 2016	|	Tue<br	>	October 18, 2016	|		|
-|	Express.js + Handlebars.js     	|	14.1	|	Wed<br	>	October 19, 2016	|	Thu<br	>	October 20, 2016	|		|
-|	Express.js + Handlebars.js + MySQL     	|	14.2	|	Sat<br	>	October 22, 2016	|	Sat<br	>	October 22, 2016	|		|
-|	MVC<br> + ORM<br>+ Ruby on Rails like Organization     	|	14.3	|	Mon<br	>	October 24, 2016	|	Tue<br	>	October 25, 2016	|		|
-|	Authenticating Users in Express.js (Sessions)     	|	15.1	|	Wed<br	>	October 26, 2016	|	Thu<br	>	October 27, 2016	|		|
-|	ORM with Express.js (Sequelize)     	|	15.2	|	Sat<br	>	October 29, 2016	|	Sat<br	>	October 29, 2016	|		|
-|	ORM With Express.js<br>+ Migrations<br>+ **Project Definitions**     	|	15.3	|	Mon<br	>	October 31, 2016	|	Tue<br	>	November 1, 2016	|		|
-|	Project Work     	|	16.1	|	Wed<br	>	November 2, 2016	|	Thu<br	>	November 3, 2016	|		|
-|	Writing Tests <br>+ Project Work     	|	16.2	|	Sat<br	>	November 5, 2016	|	Sat<br	>	November 5, 2016	|		|
-|	Writing Tests <br>+ Project Work     	|	16.3	|	Mon<br	>	November 7, 2016	|	Tue<br	>	November 8, 2016	|		|
-|	SEO (Search Engine Optimization)<br>+ Project Work     	|	17.1	|	Wed<br	>	November 9, 2016	|	Thu<br	>	November 10, 2016	|		|
-|	SEO (Search Engine Optimization)<br>+ Project Work     	|	17.2	|	Sat<br	>	November 12, 2016	|	Sat<br	>	November 12, 2016	|		|
-|	**Internal Demo Day**<br>+ **Distribute Study Guide for Week 19**     	|	17.3	|	Mon<br	>	November 14, 2016	|	Tue<br	>	November 15, 2016	|		|
-|	Introduction to MongoDB     	|	18.1	|	Wed<br	>	November 16, 2016	|	Thu<br	>	November 17, 2016	|		|
-|	MongoDB Continued     	|	18.2	|	Sat<br	>	November 19, 2016	|	Sat<br	>	November 19, 2016	|		|
-|	JEMN Stack Development<br>(jQuery Express MongoDB Node)     	|	18.3	|	Mon<br	>	November 21, 2016	|	Tue<br	>	November 22, 2016	|		|
-|	React.js     	|	19.1	|	Wed<br	>	November 23, 2016	|	Thu<br	>	November 24, 2016	|		|
-|	React.js Continued     	|	19.2	|	Sat<br	>	November 26, 2016	|	Sat<br	>	November 26, 2016	|		|
-|	**Review On Tuesday<br>No Class Monday**         	|		|	Mon<br	>	November 28, 2016	|	Tue<br	>	November 29, 2016	|		|
-|	REMN Stack Development<br>(React Express MongoDB Node)<br>+ **Where Are You? (Assessment)**    	|	19.3	|	Wed<br	>	November 30, 2016	|	Thu<br	>	December 1, 2016	|		|
-|	Interview Question Blitz                        	|		|	Sat<br	>	December 3, 2016	|	Sat<br	>	December 3, 2016	|		|
-|	Meteor.js<br> + Final Project Definitions            	|	20.1	|	Mon<br	>	December 5, 2016	|	Tue<br	>	December 6, 2016	|		|
-|	**Extra Help Day Monday**<br>**Career Event On Tuesday**     	|		|	Wed<br	>	December 7, 2016	|	Thu<br	>	December 8, 2016	|		|
-|	Meteor.js	|	20.2	|	Sat<br	>	December 10, 2016	|	Sat<br	>	December 10, 2016	|		|
-|	Meteor.js	|	20.3	|	Mon<br	>	December 12, 2016	|	Tue<br	>	December 13, 2016	|		|
-|	Meteor.js	|	21.1	|	Wed<br	>	December 14, 2016	|	Thu<br	>	December 15, 2016	|		|
-|	Meteor.js	|	21.2	|	Sat<br	>	December 17, 2016	|	Sat<br	>	December 17, 2016	|		|
-|	Meteor.js	|	21.3	|	Mon<br	>	December 19, 2016	|	Tue<br	>	December 20, 2016	|		|
-|	Computer Science Fundamentals <br>Project Work     	|	22.1	|	Wed<br	>	December 21, 2016	|	Thu<br	>	December 22, 2016	|		|
-|	Computer Science Fundamentals <br>Project Work     	|	22.2	|	Sat<br	>	December 24, 2016	|	Sat<br	>	December 24, 2016	|		|
-|	Computer Science Fundamentals <br>Project Work     	|	22.3	|	Mon<br	>	December 26, 2016	|	Tue<br	>	December 27, 2016	|		|
-|	Computer Science Fundamentals <br>Project Work     	|	23.1	|	Wed<br	>	December 28, 2016	|	Thu<br	>	December 29, 2016	|		|
-|	Computer Science Fundamentals <br>Project Work     	|	23.2	|	Sat<br	>	December 31, 2016	|	Sat<br	>	December 31, 2016	|		|
-|	Computer Science Fundamentals <br>Project Work     	|	23.3	|	Mon<br	>	January 2, 2017	|	Tue<br	>	January 3, 2017	|		|
-|	Project Work                                     	|		|	Wed<br	>	January 4, 2017	|	Thu<br	>	January 5, 2017	|		|
-|	Project Work                                     	|		|	Sat<br	>	January 7, 2017	|	Sat<br	>	January 7, 2017	|		|
-|	Project Work<br>+ **Where Are You? (Assessment)**    	|		|	Mon<br	>	January 9, 2017	|	Tue<br	>	January 10, 2017	|		|
-|	**Demo Day**                                     	|		|	Wed<br	>	January 11, 2017	|	Thu<br	>	January 12, 2017	|		|
-|	Conclusion                                         	|		|	Sat<br	>	January 14, 2017	|	Sat<br	>	January 14, 2017	|		|
+|	Kickoff     	|	1.1	|	Mon<br	>	Jul 18, 2016	|	Tue<br	>	Jul 19, 2016	|		|
+|	HTML & CSS Intro     	|	1.2	|	Wed<br	>	Jul 20, 2016	|	Thu<br	>	Jul 21, 2016	|		|
+|	HTML CSS Git     	|	1.3	|	Sat<br	>	Jul 23, 2016	|	Sat<br	>	Jul 23, 2016	|		|
+|	Review + Git Branching & Heroku    	|	2.1	|	Mon<br	>	Jul 25, 2016	|	Tue<br	>	Jul 26, 2016	| 		|
+|	Branching & Bootstrap     	|	2.2	|	Wed<br	>	Jul 27, 2016	|	Thu<br	>	Jul 28, 2016	|		|
+|	Bootstrap Continued     	|	2.3	|	Sat<br	>	Jul 30, 2016	|	Sat<br	>	Jul 30, 2016	|		|
+|	Intro to JavaScript     	|	3.1	|	Mon<br	>	Aug 1, 2016	|	Tue<br	>	Aug 2, 2016	| 		|
+|	Arrays Loops RPS Breakpoints     	|	3.2	|	Wed<br	>	Aug 3, 2016	|	Thu<br	>	Aug 4, 2016	|		|
+|	Objects & Functions     	|	3.3	|	Sat<br	>	Aug 6, 2016	|	Sat<br	>	Aug 6, 2016	|		|
+|	Intro to jQuery     	|	4.1	|	Mon<br	>	Aug 8, 2016	|	Tue<br	>	Aug 9, 2016	|		|
+|	JavaScript Scope + jQuery Continued     	|	4.2	|	Wed<br	>	Aug 10, 2016	|	Thu<br	>	Aug 11, 2016	|		|
+|	Using Arrays & Objects With jQuery     	|	4.3	|	Sat<br	>	Aug 13, 2016	|	Sat<br	>	Aug 13, 2016	|		|
+|	Review + Timers     	|	5.1	|	Mon<br	>	Aug 15, 2016	|	Tue<br	>	Aug 16, 2016	|		|
+|	Review     	|		|	Wed<br	>	Aug 17, 2016	|	Thu<br	>	Aug 18, 2016	|		|
+|	JSON APIs AJAX     	|	6.1	|	Sat<br	>	Aug 20, 2016	|	Sat<br	>	Aug 20, 2016	|		|
+|	**Review On Tuesday<br>No Class Monday**     	|		|	Mon<br	>	Aug 22, 2016	|	Tue<br	>	Aug 23, 2016	|		|
+|	AJAX Continued     	|	6.2	|	Wed<br	>	Aug 24, 2016	|	Thu<br	>	Aug 25, 2016	|		|
+|	AJAX Continued     	|	6.3	|	Sat<br	>	Aug 27, 2016	|	Sat<br	>	Aug 27, 2016	|		|
+|	Client Side Storage with Local Storage     	|	7.1	|	Mon<br	>	Aug 29, 2016	|	Tue<br	>	Aug 30, 2016	|		|
+|	Firebase     	|	7.2	|	Wed<br	>	Aug 31, 2016	|	Thu<br	>	Sep 1, 2016	|		|
+|	Firebase Continued<br>+ Groups For Projects Announced     	|	7.3	|	Sat<br	>	Sep 3, 2016	|	Sat<br	>	Sep 3, 2016	|		|
+|	Project Mgmt<br>+ Review of How Projects Will Be Run     	|	8.1	|	Mon<br	>	Sep 5, 2016	|	Tue<br	>	Sep 6, 2016	|		|
+|	Project Work     	|	8.2	|	Wed<br	>	Sep 7, 2016	|	Thu<br	>	Sep 8, 2016	|		|
+|	How to Demo<br>+ Project Work     	|	8.3	|	Sat<br	>	Sep 10, 2016	|	Sat<br	>	Sep 10, 2016	|		|
+|	Debugging Legacy Code<br>+ Interview Questions     	|	9.1	|	Mon<br	>	Sep 12, 2016	|	Tue<br	>	Sep 13, 2016	|		|
+|	Problem Solving     	|	9.2	|	Wed<br	>	Sep 14, 2016	|	Thu<br	>	Sep 15, 2016	|		|
+|	**Internal Demo Day<br>+ Project Feedback**     	|	9.3	|	Sat<br	>	Sep 17, 2016	|	Sat<br	>	Sep 17, 2016	|		|
+|	Introducing Node.js     	|	10.1	|	Mon<br	>	Sep 19, 2016	|	Tue<br	>	Sep 20, 2016	|		|
+|	NPM Packages     	|	10.2	|	Wed<br	>	Sep 21, 2016	|	Thu<br	>	Sep 22, 2016	|		|
+|	Node Review + Organizing and Debugging Node Code<br>+ **Where Are You? (Assessment)**     	|	10.3	|	Sat<br	>	Sep 24, 2016	|	Sat<br	>	Sep 24, 2016	|		|
+|	**Review On Tuesday<br>No Class Monday**     	|		|	Mon<br	>	Sep 26, 2016	|	Tue<br	>	Sep 27, 2016	|		|
+|	Interview Question Blitz     	|		|	Wed<br	>	Sep 28, 2016	|	Thu<br	>	Sep 29, 2016	|		|
+|	Introduction To Constructors     	|	11.1	|	Sat<br	>	Oct 1, 2016	|	Sat<br	>	Oct 1, 2016	|		|
+|	Constructors Continued + Prototype     	|	11.2	|	Mon<br	>	Oct 3, 2016	|	Tue<br	>	Oct 4, 2016	|		|
+|	Introduction To MySQL     	|	12.1	|	Wed<br	>	Oct 5, 2016	|	Thu<br	>	Oct 6, 2016	|		|
+|	Using MySQL with Node.js     	|	12.2	|	Sat<br	>	Oct 8, 2016	|	Sat<br	>	Oct 8, 2016	|		|
+|	Prompt + MySQL + Node.js     	|	12.3	|	Mon<br	>	Oct 10, 2016	|	Tue<br	>	Oct 11, 2016	|		|
+|	Node.js Web Servers     	|	13.1	|	Wed<br	>	Oct 12, 2016	|	Thu<br	>	Oct 13, 2016	|		|
+|	Introduction To Express.js And Routing<br>+ Serving HTML The Hard Way     	|	13.2	|	Sat<br	>	Oct 15, 2016	|	Sat<br	>	Oct 15, 2016	|		|
+|	Express.js Continued<br>+ Serving HTML Using Public/Index.html<br>+ Forms And C.R.U.D     	|	13.3	|	Mon<br	>	Oct 17, 2016	|	Tue<br	>	Oct 18, 2016	|		|
+|	Express.js + Handlebars.js     	|	14.1	|	Wed<br	>	Oct 19, 2016	|	Thu<br	>	Oct 20, 2016	|		|
+|	Express.js + Handlebars.js + MySQL     	|	14.2	|	Sat<br	>	Oct 22, 2016	|	Sat<br	>	Oct 22, 2016	|		|
+|	MVC<br> + ORM<br>+ Ruby on Rails like Organization     	|	14.3	|	Mon<br	>	Oct 24, 2016	|	Tue<br	>	Oct 25, 2016	|		|
+|	Authenticating Users in Express.js (Sessions)     	|	15.1	|	Wed<br	>	Oct 26, 2016	|	Thu<br	>	Oct 27, 2016	|		|
+|	ORM with Express.js (Sequelize)     	|	15.2	|	Sat<br	>	Oct 29, 2016	|	Sat<br	>	Oct 29, 2016	|		|
+|	ORM With Express.js<br>+ Migrations<br>+ **Project Definitions**     	|	15.3	|	Mon<br	>	Oct 31, 2016	|	Tue<br	>	Nov 1, 2016	|		|
+|	Project Work     	|	16.1	|	Wed<br	>	Nov 2, 2016	|	Thu<br	>	Nov 3, 2016	|		|
+|	Writing Tests <br>+ Project Work     	|	16.2	|	Sat<br	>	Nov 5, 2016	|	Sat<br	>	Nov 5, 2016	|		|
+|	Writing Tests <br>+ Project Work     	|	16.3	|	Mon<br	>	Nov 7, 2016	|	Tue<br	>	Nov 8, 2016	|		|
+|	SEO (Search Engine Optimization)<br>+ Project Work     	|	17.1	|	Wed<br	>	Nov 9, 2016	|	Thu<br	>	Nov 10, 2016	|		|
+|	SEO (Search Engine Optimization)<br>+ Project Work     	|	17.2	|	Sat<br	>	Nov 12, 2016	|	Sat<br	>	Nov 12, 2016	|		|
+|	**Internal Demo Day**<br>+ **Distribute Study Guide for Week 19**     	|	17.3	|	Mon<br	>	Nov 14, 2016	|	Tue<br	>	Nov 15, 2016	|		|
+|	Introduction to MongoDB     	|	18.1	|	Wed<br	>	Nov 16, 2016	|	Thu<br	>	Nov 17, 2016	|		|
+|	MongoDB Continued     	|	18.2	|	Sat<br	>	Nov 19, 2016	|	Sat<br	>	Nov 19, 2016	|		|
+|	JEMN Stack Development<br>(jQuery Express MongoDB Node)     	|	18.3	|	Mon<br	>	Nov 21, 2016	|	Tue<br	>	Nov 22, 2016	|		|
+|	React.js     	|	19.1	|	Wed<br	>	Nov 23, 2016	|	Thu<br	>	Nov 24, 2016	|		|
+|	React.js Continued     	|	19.2	|	Sat<br	>	Nov 26, 2016	|	Sat<br	>	Nov 26, 2016	|		|
+|	**Review On Tuesday<br>No Class Monday**         	|		|	Mon<br	>	Nov 28, 2016	|	Tue<br	>	Nov 29, 2016	|		|
+|	REMN Stack Development<br>(React Express MongoDB Node)<br>+ **Where Are You? (Assessment)**    	|	19.3	|	Wed<br	>	Nov 30, 2016	|	Thu<br	>	Dec 1, 2016	|		|
+|	Interview Question Blitz                        	|		|	Sat<br	>	Dec 3, 2016	|	Sat<br	>	Dec 3, 2016	|		|
+|	Meteor.js<br> + Final Project Definitions            	|	20.1	|	Mon<br	>	Dec 5, 2016	|	Tue<br	>	Dec 6, 2016	|		|
+|	**Extra Help Day Monday**<br>**Career Event On Tuesday**     	|		|	Wed<br	>	Dec 7, 2016	|	Thu<br	>	Dec 8, 2016	|		|
+|	Meteor.js	|	20.2	|	Sat<br	>	Dec 10, 2016	|	Sat<br	>	Dec 10, 2016	|		|
+|	Meteor.js	|	20.3	|	Mon<br	>	Dec 12, 2016	|	Tue<br	>	Dec 13, 2016	|		|
+|	Meteor.js	|	21.1	|	Wed<br	>	Dec 14, 2016	|	Thu<br	>	Dec 15, 2016	|		|
+|	Meteor.js	|	21.2	|	Sat<br	>	Dec 17, 2016	|	Sat<br	>	Dec 17, 2016	|		|
+|	Meteor.js	|	21.3	|	Mon<br	>	Dec 19, 2016	|	Tue<br	>	Dec 20, 2016	|		|
+|	Computer Science Fundamentals <br>Project Work     	|	22.1	|	Wed<br	>	Dec 21, 2016	|	Thu<br	>	Dec 22, 2016	|		|
+|	Computer Science Fundamentals <br>Project Work     	|	22.2	|	Sat<br	>	Dec 24, 2016	|	Sat<br	>	Dec 24, 2016	|		|
+|	Computer Science Fundamentals <br>Project Work     	|	22.3	|	Mon<br	>	Dec 26, 2016	|	Tue<br	>	Dec 27, 2016	|		|
+|	Computer Science Fundamentals <br>Project Work     	|	23.1	|	Wed<br	>	Dec 28, 2016	|	Thu<br	>	Dec 29, 2016	|		|
+|	Computer Science Fundamentals <br>Project Work     	|	23.2	|	Sat<br	>	Dec 31, 2016	|	Sat<br	>	Dec 31, 2016	|		|
+|	Computer Science Fundamentals <br>Project Work     	|	23.3	|	Mon<br	>	Jan 2, 2017	|	Tue<br	>	Jan 3, 2017	|		|
+|	Project Work                                     	|		|	Wed<br	>	Jan 4, 2017	|	Thu<br	>	Jan 5, 2017	|		|
+|	Project Work                                     	|		|	Sat<br	>	Jan 7, 2017	|	Sat<br	>	Jan 7, 2017	|		|
+|	Project Work<br>+ **Where Are You? (Assessment)**    	|		|	Mon<br	>	Jan 9, 2017	|	Tue<br	>	Jan 10, 2017	|		|
+|	**Demo Day**                                     	|		|	Wed<br	>	Jan 11, 2017	|	Thu<br	>	Jan 12, 2017	|		|
+|	Conclusion                                         	|		|	Sat<br	>	Jan 14, 2017	|	Sat<br	>	Jan 14, 2017	|		|
