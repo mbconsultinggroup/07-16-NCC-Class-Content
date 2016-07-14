@@ -27,7 +27,7 @@ You must give a full effort on every group and individual project.
 
 ## Important Links And Notes
 
-[Slack Room (UPDATE)](https://utjuly2016.slack.com)
+[Slack Room](https://utjuly2016.slack.com)
 
 [Homework Submission](http://bootcampspot.com)
 
