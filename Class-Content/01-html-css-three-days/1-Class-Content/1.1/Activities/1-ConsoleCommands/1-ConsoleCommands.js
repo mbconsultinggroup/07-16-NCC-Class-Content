@@ -6,11 +6,21 @@
  *
  **/
 
+// Present Working Directory
+pwd
+
+
+// List files and directories
+ls
+
+// List with -al flag (shows all files/directories in long list format)
+ls -al
+
 
 // Change Directory
 cd 
 
-// Change to Root Directory
+// Change to Root (Home) Directory
 cd ~
 
 // Move to One Directory Up
