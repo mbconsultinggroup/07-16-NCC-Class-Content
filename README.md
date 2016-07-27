@@ -41,9 +41,9 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Subject	|	Lesson #	|	Date<br	>	M/W/S	|	Date<br	>	T/T/S	|	Recordings	|
 |	---	|	---:	|	---:			|	---:			|	:---:	|
 |	Kickoff     	|	1.1	|	Mon<br	>	Jul 18, 2016	|	Tue<br	>	Jul 19, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4bdcaf64-2f3a-49ae-b897-fd84fcf4563f)	|
-|	HTML & CSS Intro     	|	1.2	|	Wed<br	>	Jul 20, 2016	|	Thu<br	>	Jul 21, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2efbc40f-2a51-496f-91ee-a0bae42cec1a) [Jeff's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e80a799c-a743-406a-9aab-2c02c97780ff)	|
+|	HTML & CSS Intro     	|	1.2	|	Wed<br	>	Jul 20, 2016	|	Thu<br	>	Jul 21, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2efbc40f-2a51-496f-91ee-a0bae42cec1a) <br>[Jeff's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e80a799c-a743-406a-9aab-2c02c97780ff)	|
 |	HTML CSS Git     	|	1.3	|	Sat<br	>	Jul 23, 2016	|	Sat<br	>	Jul 23, 2016	|	[Combined Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=184ca0e6-5eab-4c40-9c69-39559589c780)	|
-|	Review + Git Branching & Heroku    	|	2.1	|	Mon<br	>	Jul 25, 2016	|	Tue<br	>	Jul 26, 2016	| 		|
+|	Review + Git Branching & Heroku    	|	2.1	|	Mon<br	>	Jul 25, 2016	|	Tue<br	>	Jul 26, 2016	| [Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bc1ca2b-5329-4a54-9dc7-debdd21b2a5d) <br>[Jeff's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e0e696a-1d93-4c03-b6b9-e4f4aeecbb11)|
 |	Branching & Bootstrap     	|	2.2	|	Wed<br	>	Jul 27, 2016	|	Thu<br	>	Jul 28, 2016	|		|
 |	Bootstrap Continued     	|	2.3	|	Sat<br	>	Jul 30, 2016	|	Sat<br	>	Jul 30, 2016	|		|
 |	Intro to JavaScript     	|	3.1	|	Mon<br	>	Aug 1, 2016	|	Tue<br	>	Aug 2, 2016	| 		|
