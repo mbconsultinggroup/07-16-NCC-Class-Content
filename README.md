@@ -46,7 +46,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Review + Git Branching & Heroku    	|	2.1	|	Mon<br	>	Jul 25, 2016	|	Tue<br	>	Jul 26, 2016	| [Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bc1ca2b-5329-4a54-9dc7-debdd21b2a5d) <br>[Jeff's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e0e696a-1d93-4c03-b6b9-e4f4aeecbb11)|
 |	Branching & Bootstrap     	|	2.2	|	Wed<br	>	Jul 27, 2016	|	Thu<br	>	Jul 28, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff6270a3-1b41-4107-ad64-70677fbfe368) <br>[Jeff's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=def393cd-b74b-4df1-af71-47a32056ef16)	| 
 |	Bootstrap Continued     	|	2.3	|	Sat<br	>	Jul 30, 2016	|	Sat<br	>	Jul 30, 2016	|	[Combined Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39d9d048-124f-44df-b91e-14da5d3161e8)	|
-|	Intro to JavaScript     	|	3.1	|	Mon<br	>	Aug 1, 2016	|	Tue<br	>	Aug 2, 2016	| 		|
+|	Intro to JavaScript     	|	3.1	|	Mon<br	>	Aug 1, 2016	|	Tue<br	>	Aug 2, 2016	| [Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94ec639b-bcb2-49db-afeb-0a957bbb4d5d) <br>		|
 |	Arrays Loops RPS Breakpoints     	|	3.2	|	Wed<br	>	Aug 3, 2016	|	Thu<br	>	Aug 4, 2016	|		|
 |	Objects & Functions     	|	3.3	|	Sat<br	>	Aug 6, 2016	|	Sat<br	>	Aug 6, 2016	|		|
 |	Intro to jQuery     	|	4.1	|	Mon<br	>	Aug 8, 2016	|	Tue<br	>	Aug 9, 2016	|		|
