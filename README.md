@@ -51,8 +51,8 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Objects & Functions     	|	3.3	|	Sat<br	>	Aug 6, 2016	|	Sat<br	>	Aug 6, 2016	|	[Combined Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12aa8be2-b1a4-4079-a481-a0ee1ade04a7)	|
 |	Intro to jQuery     	|	4.1	|	Mon<br	>	Aug 8, 2016	|	Tue<br	>	Aug 9, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3cb22b1-e34a-433e-8662-0d52f375a87d)	|
 |	JavaScript Scope + jQuery Continued     	|	4.2	|	Wed<br	>	Aug 10, 2016	|	Thu<br	>	Aug 11, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c96006d4-71e5-4e11-99d8-52c4fc2ad740) <br>	|
-|	Using Arrays & Objects With jQuery     	|	4.3	|	Sat<br	>	Aug 13, 2016	|	Sat<br	>	Aug 13, 2016	|		|
-|	Review + Timers     	|	5.1	|	Mon<br	>	Aug 15, 2016	|	Tue<br	>	Aug 16, 2016	|	[Brian's Class - part 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96090ab1-738c-431a-bfb5-a12c8c5bdc1e) <br> [Brian's Class - part 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a51d5a4-0645-4a7f-8822-b04ef3fed9df) <br>	|
+|	Using Arrays & Objects With jQuery     	|	4.3	|	Sat<br	>	Aug 13, 2016	|	Sat<br	>	Aug 13, 2016	|	[Combined Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=202821f5-f8d5-4794-bb6b-27a3e74c318f)	|
+|	Review + Timers     	|	5.1	|	Mon<br	>	Aug 15, 2016	|	Tue<br	>	Aug 16, 2016	|	[Brian's Class - 1/2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96090ab1-738c-431a-bfb5-a12c8c5bdc1e) <br> [Brian's Class - 2/2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a51d5a4-0645-4a7f-8822-b04ef3fed9df) <br>	|
 |	Review     	|		|	Wed<br	>	Aug 17, 2016	|	Thu<br	>	Aug 18, 2016	|		|
 |	JSON APIs AJAX     	|	6.1	|	Sat<br	>	Aug 20, 2016	|	Sat<br	>	Aug 20, 2016	|		|
 |	**Review On Tuesday<br>No Class Monday**     	|		|	Mon<br	>	Aug 22, 2016	|	Tue<br	>	Aug 23, 2016	|		|
