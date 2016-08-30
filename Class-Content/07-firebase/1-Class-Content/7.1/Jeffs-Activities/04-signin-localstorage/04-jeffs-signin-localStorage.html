@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Sign-Up Today!</title>
+
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+</head>
+<body>
+
+<div class="container">
+
+	<br>
+
+	<!-- Jumbotron -->
+	<div class="jumbotron">
+		<h1 class="text-center">Sign-Up Today!</h1>
+	</div>
+
+	<div class="row">
+
+		<!-- Sign-Up Panel-->
+		<div class="col-lg-6">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">New Member Sign-Up</h3>
+				</div>
+				<div class="panel-body">
+
+					<!-- Sign-up Form (note the various input "types")-->
+					  <div class="form-group">
+					    <label for="text">Name:</label>
+					    <input type="text" class="form-control" id="nameinput">
+					  </div>
+					  <div class="form-group">
+					    <label for="text">Email:</label>
+					    <input type="email" class="form-control" id="emailinput">
+					  </div>
+					  <div class="form-group">
+					    <label for="text">Age:</label>
+					    <input type="number" class="form-control" id="ageinput">
+					  </div>
+					  <div class="form-group">
+						 <label for="comment">How did you hear about us?</label>
+						 <textarea class="form-control" rows="5" id="commentinput"></textarea>
+					   </div>
+					  <button class="btn btn-default" id="addUser">Submit</button>
+
+				</div>
+			</div>
+		</div>
+
+		<!-- Most Recent Member Panel -->
+		<div class="col-lg-6">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">Most Recent Member</h3>
+				</div>
+				<div class="panel-body" id="recentMember">
+					<h2 id="namedisplay">Jimmy John</h2>
+					<h4 id="emaildisplay">Email: jimmy@john.edu</h4>
+					<h4 id="agedisplay">Age: 27</h4>
+					<p id="commentdisplay">I'm signing up, because I want to spread sandwiches to the world.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Latest compiled and minified CSS & JS -->
+<script src="https://code.jquery.com/jquery.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script>
+
+// Capture Button Click
+$('#addUser').click(function(event) {
+
+	// Capture User Inputs and store into variables
+	var name = $('#nameinput').val().trim();
+	var email = $('#emailinput').val().trim();
+	var age = $('#ageinput').val().trim();
+	var comment = $('#commentinput').val().trim();
+
+
+	// Console log each of the user inputs to confirm you are receiving them
+	console.log(name);
+	console.log(email);
+	console.log(age);
+	console.log(comment);
+
+
+	// Dump all of the new information into the relevant sections
+	$('#namedisplay').html(name);
+	$('#emaildisplay').html('Email: ' + email);
+	$('#agedisplay').html('Age: ' + age);
+	$('#commentdisplay').html(comment);
+
+});
+
+</script>
+
+</body>
+</html>
