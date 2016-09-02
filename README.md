@@ -59,7 +59,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	AJAX Continued     	|	6.2	|	Wed<br	>	Aug 24, 2016	|	Thu<br	>	Aug 25, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fe63174-b31b-4e56-bc90-e826e022f390) <br> [Jeff's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b8359c2-44c4-4251-9ea9-0f0c68c2a586)	|
 |	AJAX Continued     	|	6.3	|	Sat<br	>	Aug 27, 2016	|	Sat<br	>	Aug 27, 2016	|	[Combined Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38f5834c-0f45-4653-a556-1c2b9ef592b9)	|
 |	Client Side Storage with Local Storage     	|	7.1	|	Mon<br	>	Aug 29, 2016	|	Tue<br	>	Aug 30, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e5bbd3d-9311-41dd-a756-31aa7b49390b)	<br> |
-|	Firebase     	|	7.2	|	Wed<br	>	Aug 31, 2016	|	Thu<br	>	Sep 1, 2016	|		|
+|	Firebase     	|	7.2	|	Wed<br	>	Aug 31, 2016	|	Thu<br	>	Sep 1, 2016	|	[Brian's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b1f3bda-2523-4539-86c1-ecddd5dddbd2) <br>	|
 |	Firebase Continued<br>+ Groups For Projects Announced     	|	7.3	|	Sat<br	>	Sep 3, 2016	|	Sat<br	>	Sep 3, 2016	|		|
 | **Labor Day - No Class**	| 	|	Mon<br	>	Sep 5, 2016	|	Tue<br	>	Sep 6, 2016	|		|
 |	Project Work     	|	8.1	|	Wed<br	>	Sep 7, 2016	|	Thu<br	>	Sep 8, 2016	|		|
