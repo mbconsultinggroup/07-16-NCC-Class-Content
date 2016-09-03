@@ -84,10 +84,10 @@
 
 // Initialize Firebase
 var config = {
-	apiKey: "AIzaSyA5eYKsB8T2q6rMGdKSvac6eQsWTzsZEjE",
-	authDomain: "fir-recent-user.firebaseapp.com",
-	databaseURL: "https://fir-recent-user.firebaseio.com",
-	storageBucket: "fir-recent-user.appspot.com"
+	apiKey: "AIzaSyCOQkgDrE_bnvMmShDQqUbrLcUpDFxj3yI",
+  authDomain: "signups-33fcb.firebaseapp.com",
+  databaseURL: "https://signups-33fcb.firebaseio.com",
+  storageBucket: ""
 };
 firebase.initializeApp(config);
 
@@ -132,10 +132,13 @@ database.ref().on("value", function(snapshot) {
 	console.log(snapshot.val().comment);
 
 	// Change the HTML to reflect
-	$("#namedisplay").html(snapshot.val().name);
-	$("#emaildisplay").html(snapshot.val().email);
-	$("#agedisplay").html(snapshot.val().age);
-	$("#commentdisplay").html(snapshot.val().comment);
+	snapshot.forEach(function(childSnapshot){
+		$("#namedisplay").html(childSnapshot.val().name);
+		$("#emaildisplay").html(childSnapshot.val().email);
+		$("#agedisplay").html(childSnapshot.val().age);
+		$("#commentdisplay").html(childSnapshot.val().comment);
+	});
+
 
 
 // Handle the errors

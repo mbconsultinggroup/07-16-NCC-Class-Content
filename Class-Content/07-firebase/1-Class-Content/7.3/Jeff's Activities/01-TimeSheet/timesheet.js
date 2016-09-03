@@ -13,7 +13,7 @@
     apiKey: "AIzaSyB3a3HM_r2Bcn1InTib0hv7ZUv9TBfu870",
     authDomain: "employeedata-1bb3a.firebaseapp.com",
     databaseURL: "https://employeedata-1bb3a.firebaseio.com",
-    storageBucket: "",
+    storageBucket: ""
   };
   firebase.initializeApp(config);
 
