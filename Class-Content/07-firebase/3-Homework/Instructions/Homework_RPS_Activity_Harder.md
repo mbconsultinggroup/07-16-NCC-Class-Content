@@ -11,11 +11,7 @@ In this assignment, you'll indeed create another Rock Paper Scissors game. The c
 
 ### Some Notes Before you begin
 
-* Whether you finish the game or not, you must hand in your code by `< HEY, INSTRUCTOR: FILL THIS PART IN :) >` to avoid having your work marked incomplete. We don't expect every student to finish this assignment. Still, we do want to see you program this game as best you can.
-
-### When Should You Be an Expert with the Concepts from This Homework?
-
-By Week 9. Try your *absolute best* to finish this homework. Remember: you have two weeks to ace this exercise.
+* Whether you finish the game or not, you must hand in your code by Saturday September 10, 2016 @ 6:30pm to avoid having your work marked incomplete. We don't expect every student to finish this assignment. Still, we do want to see you program this game as best you can.
 
 ### Setup
 1. Create a GitHub repo called `RPS-Multiplayer` and clone it to your computer.
