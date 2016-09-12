@@ -1,0 +1,82 @@
+<!-- Advanced Console Logging! -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Advanced Console Logging!</title>
+</head>
+<body>
+
+<script type="text/javascript">
+
+/** 
+ * Advanced console logging!
+ * Students: Follow along to see some great methods for debugging your code.
+ **/
+
+// Labeling your console logs.
+// ===========================
+
+// We include a string with an empty space at the end.
+// This makes it a cinch to know what values we're observing the our console.
+var a = 5 + 10;
+console.log("variable a is equal to: ", a)
+
+// Logging to the console in the form of a table.
+// ==============================================
+
+// Use console.table and pass either objects or arrays.
+console.table([{a:1, b:2, c:3}, {a:"foo", b:false, c:undefined}]);
+console.table([[1,2,3], [2,3,4]]);
+
+
+// Logging an object as a table.
+// =============================
+
+// First let's define a Person class.
+function Person(firstName, lastName, age) {
+  this.firstName = firstName;
+  this.lastName = lastName;
+  this.age = age;
+}
+
+// Then we make a family object.
+var family = {};
+
+// With that done, let's create some Persons for our family.
+family.mother = new Person("Susan", "Doyle", 32);
+family.father = new Person("John", "Doyle", 33);
+family.daughter = new Person("Lily", "Doyle", 5);
+family.son = new Person("Mike", "Doyle", 8);
+
+// Now we log the family in a table, passing heading labels in the second argument
+console.table(family, ["firstName", "lastName", "age"]);
+
+// Logging in groups.
+// ==================
+
+// We start the group and label it.
+console.group("My Shopping List");
+
+// All proceeding logs will compose the group.
+console.log("Eggs")
+console.log("Bacon");
+console.log("Cheese");
+console.log("More Cheese");
+
+// We call groupEnd to end the group.
+console.groupEnd();
+
+
+// Applying CSS to a console log.
+// ==============================
+
+// We simply pass CSS as the second argument of the log. 
+console.log("This is %cMy stylish message", "color: yellow; font-style: italic; background-color: blue;padding: 2px");
+// Notice the %c in the first string. 
+// This tells the browser to style what follows using the second argument.
+// We can include more than one %c and pass additional style-string arguments 
+// to add different stylings to different portions of the console log.
+</script>
+
+</body>
+</html>

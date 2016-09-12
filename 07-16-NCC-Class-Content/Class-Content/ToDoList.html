@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>To Do App!</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <style>
+        .col-lg-2,
+        .col-lg-1 {
+            float: none;
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: -4px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <h1>My To Dos!</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-1">
+                <h2>Todo: </h2>
+            </div>
+            <!-- end col -->
+
+            <div class="col-lg-2">
+                <input class="form-control" placeholder="Add Todo" type="text" id="todo" />
+            </div>
+            <!-- end col -->
+
+            <div class="col-lg-2">
+                <input type="button" class="btn btn-primary" id="addTodo" value="Add Todo" />
+            </div>
+            <!-- end col -->
+
+        </div>
+        <!-- end row -->
+
+    </div>
+    <!-- end container -->
+    <hr>
+
+    <!-- To-Do List -->
+    <div id="todoList" class="container">
+
+    </div>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <script>
+        // Create an initial todoCount variable
+        var todoNum = 0;
+        var todoItem;
+        var todosArr = [];
+
+        function init() {
+            // Check if 'todos' exists in localStorage
+            if (localStorage.getItem('todos') !== null) {
+                // Use JSON.parse() (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+                todosArr = JSON.parse(localStorage.getItem('todos'));
+                // Loop through todosArr
+                for (var i = 0; i < todosArr.length; i++) {
+                    todoItem = createTodoItem(todosArr[i], i);
+                    $("#todoList").append(todoItem);
+                }
+                todoNum = i;
+                //Add click handler to new todoItem (this could be a named or an anonymous inline function)
+                $('.delete-todo').click(deleteTaskHandler);
+
+            }
+        }
+
+        // attach click handler to addTodo button to create add new todo to todoList
+        $("#addTodo").click(function(event) {
+
+            //get value of new todo
+            var todoTask = $('#todo').val().trim();
+            //create conditional statement to only tasks if length of new todo string is greter than 0
+            if (todoTask.length > 0 && todosArr.indexOf(todoTask) === -1) {
+
+                //Append element to todoList
+                todosArr.push(todoTask);
+                // Use JSON.stringify() to create string from Array and save to localStorage
+                //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+                localStorage.setItem("todos", JSON.stringify(todosArr));
+
+                // Pass in todoTask and todoNum to createTodoItem() function to create HTML element with jQuery
+                todoItem = createTodoItem(todoTask, todoNum);
+                // Append element
+                $("#todoList").append(todoItem);
+
+                //Add click handler to new todoItem (this could be a named or an anonymous inline function)
+                $('.delete-todo').click(deleteTaskHandler);
+
+                // Clear the textbox when done
+                $('#todo').val("");
+                //increment todoIndex (counter) by 1;
+                todoNum++;
+            }
+
+        });
+
+        function deleteTaskHandler(event) {
+
+            var todoTask = $(event.target).siblings('label').text();
+            todosArr.splice(todosArr.indexOf(todoTask));
+            localStorage.setItem("todos", JSON.stringify(todosArr));
+            //remove associated div from todoList using jQuery (https://api.jquery.com/remove/)
+            $(event.target).closest('div').remove();
+        }
+
+        function createTodoItem(task, num) {
+            var todoDiv = $('<div class="row" id="item-' + num + '">' +
+                '<label class="col-lg-2">' + task + '</label>' +
+                '<button class="btn btn-default col-lg-1 delete-todo" data-index="' + num + '">Delete</button>' +
+                '</div>');
+
+            return todoDiv;
+        }
+
+
+        $("#todo").keypress(function(e) {
+            if (e.which == 13) {
+                $("#addTodo").click();
+            }
+        });
+
+        init();
+    </script>
+
+</body>
+
+</html>
