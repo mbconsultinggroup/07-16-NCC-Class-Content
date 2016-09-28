@@ -70,7 +70,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Project Work     	|		|	Mon<br	>	Sep 19, 2016	|	Tue<br	>	Sep 20, 2016	|		|
 |	Project Work     	|		|	Wed<br	>	Sep 21, 2016	|	Thu<br	>	Sep 22, 2016	|		|
 |	Project Presentations #1     	|	9.3	|	Sat<br	>	Sep 24, 2016	|	Sat<br	>	Sep 24, 2016	|		|
-|	Intro to Node.js     	|	10.1	|	Mon<br	>	Sep 26, 2016	|	Tue<br	>	Sep 27, 2016	|		|
+|	Intro to Node.js     	|	10.1	|	Mon<br	>	Sep 26, 2016	|	Tue<br	>	Sep 27, 2016	|	Brian's Class [1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=943b41db-abe8-4e5b-bbb0-65723c575f64), [2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c272048f-c5ad-4001-986a-0eaa79e2cca0)	|
 |	Reading and Writing Files with Node     	|	10.2	|	Wed<br	>	Sep 28, 2016	|	Thu<br	>	Sep 29, 2016	|		|
 |	NPM Packages     	|	10.3	|	Sat<br	>	Oct 1, 2016	|	Sat<br	>	Oct 1, 2016	|		|
 |	Javascript Constructors Pt 1     	|	11.1	|	Mon<br	>	Oct 3, 2016	|	Tue<br	>	Oct 4, 2016	|		|
