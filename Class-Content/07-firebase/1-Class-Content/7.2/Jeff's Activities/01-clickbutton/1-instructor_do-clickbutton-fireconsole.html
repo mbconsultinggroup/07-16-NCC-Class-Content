@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Click Button with Firebase!</title>
+	<!-- Bootstrap CDN-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+	<script type="text/css">
+	body{
+		margin: 20px;
+	}
+	</script>
+</head>
+<body>
+
+	<!-- Text with spanID that gets filled with content -->
+	<div class="jumbotron">
+		<p>After clicking, go to the firebase database to see the click counter go up.</p>
+
+		<p>
+			While clicking, put this html file to the left, and show the firebase database on the right to show how firebase is real time!
+		</p>
+
+		<!-- Button -->
+		<button type="button" class="btn btn-primary" id="clickButton">Click Me!!!!</button>'
+		<label id="countLbl"></label>
+	</div>
+
+
+	<!-- JQuery -->
+	<script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+
+<!-- ================================================================================== -->
+
+	<!-- Firebase JavaScript Link -->
+	<script src="https://www.gstatic.com/firebasejs/3.3.0/firebase.js"></script>
+
+	<script>
+
+	// Initialize Firebase
+	// This is the code we copied and pasted from our app page
+	var config = {
+		apiKey: "AIzaSyBshWXFKiQBI7JAyDKrqR-XXvc5pCfPeQI",
+		authDomain: "inclassexercises.firebaseapp.com",
+		databaseURL: "https://inclassexercises.firebaseio.com",
+		storageBucket: ""
+	};
+	firebase.initializeApp(config);
+
+
+	// Variables
+	// ================================================================================
+
+	// Get a reference to the database service
+	var database = firebase.database();
+
+	// Initializing our click count at 0
+	var clickCounter = 0;
+	$('#countLbl').html(clickCounter);
+
+	// Functions
+	// ================================================================================
+
+	// On Click
+	$("#clickButton").on("click", function() {
+
+		// Add 1 to clickCounter
+		clickCounter++;
+    $('#countLbl').html(clickCounter);
+		// ***** Store Click Data to Firebase in a JSON property called clickCount *****
+		// ***** Note how we are using the Firebase .set() method ****
+		// ***** .ref() refers to the path you want to save your data to
+		// ***** Since we left .ref() blank, it will save to the root directory
+		database.ref().set({
+			clickCount: clickCounter
+		})
+
+		// Now! go to https://fir-click-counter-7cdb9.firebaseio.com/ to see the impact to the DB
+	})
+
+	</script>
+
+</body>
+</html>
